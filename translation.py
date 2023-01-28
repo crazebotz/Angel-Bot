@@ -12,12 +12,12 @@ URL | filename | username | password"""
     DOWNLOAD_START = "Download started in **Lazy mode...**"
     UPLOAD_START = "Processing upload..."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thank you <a href='https://t.me/LazyDeveloperr'>**LazyDeveloperr**</a> for helping us in this journey ❤️"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thank you <a href='https://t.me/Moviemania_TG'>**Moviemania**</a> for helping us in this journey ❤️"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@LazyDeveloperr"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     CUSTOM_CAPTION_UL_FILE = "{}"
-    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>LazyDeveloperr</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>Moviemania</b> said: {}"
     HELP_USER = """How to Use Me? Follow These steps!
     
 1. Send url (example.domain/File.mp4 | New Filename.mp4).
@@ -28,7 +28,7 @@ URL | filename | username | password"""
    Video  - Give File as video without Screenshots
    File   - Give File without Screenshots
 
-Contact ADMIN if any error occurs @LazyDeveloperr"""
+Contact ADMIN if any error occurs @anfar_mohammed"""
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /genthumbnail to a media album, to generate custom thumbnail"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
     CANCEL_STR = "Process Cancelled"
@@ -37,7 +37,7 @@ Contact ADMIN if any error occurs @LazyDeveloperr"""
     LAZY_START_TEXT = """𝙷𝚎𝚕𝚕𝚘 𝗕𝗲𝘄𝗮𝗳𝗮 {},
 
 𝗬𝗼𝘂 𝗺𝘂𝘀𝘁 𝗯𝗲 𝗮𝗻 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰 𝗨𝘀𝗲𝗿 𝘁𝗼 𝘂𝘀𝗲 𝗺𝗲.
-The 𝐋𝐚𝐳𝐲𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐫 has not allowed me to upload files from the urls which is send by an unAuthorised member.
+The **Moviemania** has not allowed me to upload files from the urls which is send by an unAuthorised member.
 
 Please contact my Developer to be an authorised user ! 
 """
