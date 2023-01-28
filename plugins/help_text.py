@@ -45,10 +45,10 @@ async def start(bot, update):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("????????????????", url="https://t.me/BOTXZE_UPDATES"),
-                        InlineKeyboardButton("?? U????????e", url="https://t.me/BOTXZE"),
+                        InlineKeyboardButton("⚡️𝔖𝔲𝔭𝔭𝔬𝔯𝔱", url="https://t.me/BOTXZE_UPDATES"),
+                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://t.me/BOTXZE"),
                     ],
-                    [InlineKeyboardButton("?? ??????? O W N E R ??????? ??", url="https://t.me/anfar_mohammed")],
+                    [InlineKeyboardButton("⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑", url="https://t.me/anfar_mohammed")],
                 ]
             ),
             reply_to_message_id=update.message_id
@@ -61,10 +61,10 @@ async def start(bot, update):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("????????????????", url="https://t.me/BOTXZE_UPDATES"),
-                        InlineKeyboardButton("?? U????????e", url="https://t.me/BOTXZE"),
+                        InlineKeyboardButton("⚡️𝔖𝔲𝔭𝔭𝔬𝔯𝔱", url="https://t.me/BOTXZE_UPDATES"),
+                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://t.me/BOTXZE"),
                     ],
-                    [InlineKeyboardButton("?? ??????? O W N E R ??????? ??", url="https://t.me/anfar_moahmmed")],
+                    [InlineKeyboardButton("⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑", url="https://t.me/anfar_moahmmed")],
                 ]
             ),
             reply_to_message_id=update.message_id
@@ -76,11 +76,11 @@ async def start(bot, update):
             text=Translation.LAZY_START_TEXT.format(update.from_user.first_name),
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("?? ??????? O W N E R ??????? ??", url="https://t.me/anfar_moahmmed")],
+                    [InlineKeyboardButton("⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑", url="https://t.me/anfar_moahmmed")],
                     [
-                        InlineKeyboardButton("?¦??¦ UPDATE ¦??¦?", url="https://t.me/BOTXZE"),
+                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://t.me/BOTXZE"),
                     ],
-                    [InlineKeyboardButton("??? S U P P O R T ???", url="https://t.me/BOTXZE_UPDATES")],
+                    [InlineKeyboardButton("⚡️𝔖𝔲𝔭𝔭𝔬𝔯𝔱", url="https://t.me/BOTXZE_UPDATES")],
                 ]
             ),
             reply_to_message_id=update.message_id
