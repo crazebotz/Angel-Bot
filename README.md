@@ -3,7 +3,7 @@
 <img src="https://telegra.ph/file/efdf5689646da738eb787.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://telegram.me/LazyDeveloper" target="/blank">BEWAFA Angel-Priya BOT</a></>
+ <b><a href="https://telegram.me/anfar_mohammed" target="/blank">BEWAFA Angel-Priya BOT</a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
@@ -51,7 +51,7 @@
 <details><summary>🧡Deploy To Heroku🧡</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/pawanjaatpk/Angel-Priya-Url-Uploader-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/anfargaming/Angel-Priya-Url-Uploader-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -63,8 +63,8 @@
 
 
 #### 🧡 Respecting Lazy... 🧡
-- [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
-- [🔥 Instagram](https://www.instagram.com/LazyDeveloperrr) 
+- [🔥 LazyDeveloperr](https://github.com/anfargaming) 
+- [🔥 Telegram](https://www.telegram.me/anfar_mohammed) 
 - [🔥 Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
